@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2 align="left">
+ <abc>
+  <br>Hello!<br>こんにちは！ <img src="rica.jpg" width="30"><br>
+  <br> I'm Petre-Marian Vaduva :blush:<br>
+  <br> Web Developer<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 
 <!--
 **petre-marian-vaduva/petre-marian-vaduva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
