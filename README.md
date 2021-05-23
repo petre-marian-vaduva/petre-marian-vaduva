@@ -16,6 +16,18 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: 
+- :hourglass_flowing_sand:  
+- :rocket: 
+- :man_technologist:
+- :dart: Life Hack:  
+- :trophy: 
+- :zap: Fun fact:<br>
+
+<h2 align="left">:heart: Let's get connected:</h2>
 <!--
 **petre-marian-vaduva/petre-marian-vaduva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
