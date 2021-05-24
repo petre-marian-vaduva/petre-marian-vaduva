@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub](icons/github.png)](https://github.com/Petre-Marian)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/petre-marian-vaduva-9b4b46201/)
