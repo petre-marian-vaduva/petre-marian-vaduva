@@ -31,8 +31,6 @@
 
 <a href="https://slack.com/app_redirect?channel=U02204166E8" rel="nofollow"><img align="left" alt="Slack" width="40px" src="slack.png" style="max-width:100%;"></a>
 
-<a href="https://www.facebook.com/rica.marian.1/" rel="nofollow"><img align="left" alt="Facebook" width="40px" src="facebook.png" style="max-width:100%;"></a>
-
 <a href="https://www.linkedin.com/in/petre-marian-vaduva-9b4b46201/" rel="nofollow"><img align="left" alt="Linkedin" width="40px" src="linkedin.png" style="max-width:100%;"></a>
 
 <!--
