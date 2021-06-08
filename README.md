@@ -27,6 +27,14 @@
 - :zap: Fun fact:<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
+<a href="https://petre-marian-vaduva.github.io/" rel="nofollow"><img align="left" alt="Portfolio" width="40px" src="portfolio.png" style="max-width:100%;"></a>
+
+<a href="https://slack.com/app_redirect?channel=U02204166E8" rel="nofollow"><img align="left" alt="Slack" width="40px" src="slack.png" style="max-width:100%;"></a>
+
+<a href="https://www.facebook.com/rica.marian.1/" rel="nofollow"><img align="left" alt="Facebook" width="40px" src="facebook.png" style="max-width:100%;"></a>
+
+<a href="https://www.linkedin.com/in/petre-marian-vaduva-9b4b46201/" rel="nofollow"><img align="left" alt="Linkedin" width="40px" src="linkedin.png" style="max-width:100%;"></a>
+
 <!--
 **petre-marian-vaduva/petre-marian-vaduva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,10 +50,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://petre-marian-vaduva.github.io/" rel="nofollow"><img align="left" alt="Portfolio" width="40px" src="portfolio.png" style="max-width:100%;"></a>
-
-<a href="https://slack.com/app_redirect?channel=U02204166E8" rel="nofollow"><img align="left" alt="Slack" width="40px" src="slack.png" style="max-width:100%;"></a>
-
-<a href="https://www.facebook.com/rica.marian.1/" rel="nofollow"><img align="left" alt="Facebook" width="40px" src="facebook.png" style="max-width:100%;"></a>
-
-<a href="https://www.linkedin.com/in/petre-marian-vaduva-9b4b46201/" rel="nofollow"><img align="left" alt="Linkedin" width="40px" src="linkedin.png" style="max-width:100%;"></a>
