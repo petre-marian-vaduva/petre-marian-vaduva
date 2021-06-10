@@ -24,9 +24,8 @@
 - :rocket: 
 - :man_technologist:
 - :dart: Life Hack:  
-- :trophy: 
--<img align="left" alt="check" width="20px" src="check.png" style="max-width:100%;">Languages:<br>
-
+- <img align="left" alt="check" width="20px" src="check.png" style="max-width:100%;">Languages: 
+<img align="left" alt="Romanian" width="20px" src="romania.png" style="max-width:100%;">:<br>
 
 
 <h2 align="left">:heart: Let's get connected:</h2>
