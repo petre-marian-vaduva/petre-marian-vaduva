@@ -24,12 +24,7 @@
 - :rocket: 
 - :man_technologist:
 - :dart: Life Hack:  
-- <img align="left" alt="mortarboard" width="20px" src="mortarboard.png" style="max-width:100%;">
-<img align="left" alt="Romanian" width="20px" src="romania.png" style="max-width:100%;">
-<img align="left" alt="English" width="20px" src="uk.png" style="max-width:100%;">
-<img align="left" alt="Japanese" width="20px" src="japan.png" style="max-width:100%;">
-<img align="left" alt="Spanish" width="20px" src="spain.png" style="max-width:100%;">
-<img align="left" alt="Russian" width="20px" src="russia.png" style="max-width:100%;"><br> 
+- <img align="left" alt="graduation" width="20px" src="graduation.png" style="max-width:100%;"><img align="left" alt="Romanian" width="20px" src="romania.png" style="max-width:100%;"><img align="left" alt="English" width="20px" src="uk.png" style="max-width:100%;"><img align="left" alt="Japanese" width="20px" src="japan.png" style="max-width:100%;"><img align="left" alt="Spanish" width="20px" src="spain.png" style="max-width:100%;"><img align="left" alt="Russian" width="20px" src="russia.png" style="max-width:100%;"><br> 
 
 
 
