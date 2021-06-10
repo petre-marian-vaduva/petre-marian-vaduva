@@ -25,7 +25,9 @@
 - :man_technologist:
 - :dart: Life Hack:  
 - :trophy: 
-- :zap: Fun fact:<br>
+-<img align="left" alt="check" width="20px" src="check.png" style="max-width:100%;">Languages:<br>
+
+
 
 <h2 align="left">:heart: Let's get connected:</h2>
 <a href="https://petre-marian-vaduva.github.io/" rel="nofollow"><img align="left" alt="Portfolio" width="40px" src="portfolio.png" style="max-width:100%;"></a>
