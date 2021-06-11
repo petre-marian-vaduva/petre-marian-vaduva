@@ -20,6 +20,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: 
+- 📝 I regularly write articles on: https://www.linkedin.com/in/petre-marian-vaduva-9b4b46201/detail/recent-activity/posts/
 - :hourglass_flowing_sand:  
 - :rocket: 
 - :man_technologist: All of my projects are available at: https://petre-marian-vaduva.github.io/
