@@ -15,7 +15,7 @@
     <a href="https://docs.python.org/3/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="C:\Users\Admin\Desktop\petre-marian-vaduva\petre-marian-vaduva\django.png" alt="django" width="40" height="40"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
