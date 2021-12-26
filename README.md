@@ -2,7 +2,7 @@
  <abc>
   <br>Hello!<br>こんにちは！<br>
   <br> I'm Petre-Marian Vaduva :blush:<br>ぺトレです。<br>
-  <br> Web Developer<br>
+  <br> Software Developer<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
