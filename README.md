@@ -41,8 +41,8 @@
 <a href="https://slack.com/app_redirect?channel=U02204166E8" rel="nofollow"><img align="left" alt="Slack" width="40px" src="slack.png" style="max-width:100%;"></a>
 
 <a href="https://www.linkedin.com/in/petre-marian-vaduva-9b4b46201/" rel="nofollow"><img align="left" alt="Linkedin" width="40px" src="linkedin.png" style="max-width:100%;"></a>
-
-[![Petre's GitHub stats](https://github-readme-stats.vercel.app/api?username=petre-marian-vaduva)](https://github.com/petre-marian-vaduva/github-readme-stats)
+<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petre-marian-vaduva&layout=compact)](https://github.com/petre-marian-vaduva/github-readme-stats)
 
 <!--
 **petre-marian-vaduva/petre-marian-vaduva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
