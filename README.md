@@ -7,6 +7,7 @@
   <h4 align="left">
  <abc>
   I am looking forward to absorb knowledge, gain experience, collaborate and build amazing products for the world! 🌍 <br>
+  私は常に新しい能力を身につけ、経験を積み、様々な方々とコラボレーションをしながら世界的に役立つアプリ開発などをしていきたいと思います。
  </abc>
 </h4>
   <br>
