@@ -25,13 +25,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/> </a>
 </p>
-<br>
-<br>
-
-<a href='https://github.com/petre-marian-vaduva'>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petre-marian-vaduva&title_color=ffffff&layout=compact" />
-</a>
-
 
 <h2 align="left">👨🏻‍💻 About Me</h2>
 
@@ -52,7 +45,9 @@
 <br>
 <br>
 
-
+<a href="https://github.com/petre-marian-vaduva">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petre-marian-vaduva&title_color=ffffff&layout=compact" />
+</a>
 
 
 <!--
@@ -69,4 +64,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
