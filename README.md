@@ -26,11 +26,11 @@
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/> </a>
 </p>
 
-<h2>
-<a href="https://github.com/petre-marian-vaduva">
+
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petre-marian-vaduva&title_color=ffffff&layout=compact" />
-</a> 
-</h2>
+</p>
+
 
 
 <h2 align="left">👨🏻‍💻 About Me</h2>
