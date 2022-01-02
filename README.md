@@ -28,7 +28,7 @@
 
 <a href="https://github.com/petre-marian-vaduva">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petre-marian-vaduva&title_color=ffffff&layout=compact" />
-</a>
+</a> <br>
 
 <h2 align="left">👨🏻‍💻 About Me</h2>
 
