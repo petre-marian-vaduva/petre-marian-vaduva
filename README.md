@@ -17,7 +17,7 @@
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/> </a>
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About Me</h2>
 
 - 📝 I regularly write articles on: https://www.linkedin.com/in/petre-marian-vaduva-9b4b46201/detail/recent-activity/posts/
 - :man_technologist: All of my projects are available at: https://petre-marian-vaduva.github.io/
