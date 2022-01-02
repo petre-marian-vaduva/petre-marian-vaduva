@@ -3,15 +3,16 @@
   <br>Hello!<br>こんにちは！<br>
   <br> I'm Petre-Marian Vaduva :blush:<br>ぺトレです。<br>
   <br> Software Developer<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h4 align="left">
+  <h4 align="left">
  <abc>
   I am looking forward to absorb knowledge, gain experience, collaborate and build amazing products for the world! 🌍 <br>
  </abc>
 </h4>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
