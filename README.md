@@ -26,6 +26,10 @@
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/> </a>
 </p>
 
+<a href="https://github.com/petre-marian-vaduva">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petre-marian-vaduva&title_color=ffffff&layout=compact" />
+</a>
+
 <h2 align="left">👨🏻‍💻 About Me</h2>
 
 - 📝 I regularly write articles on: https://www.linkedin.com/in/petre-marian-vaduva-9b4b46201/detail/recent-activity/posts/
@@ -45,9 +49,7 @@
 <br>
 <br>
 
-<a href="https://github.com/petre-marian-vaduva">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petre-marian-vaduva&title_color=ffffff&layout=compact" />
-</a>
+
 
 
 <!--
