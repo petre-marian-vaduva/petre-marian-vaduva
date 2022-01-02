@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hello!<br>こんにちは！<br>
-  <br> I'm Petre-Marian Vaduva :blush:<br>ぺトレです。<br>
+  <br> I'm Petre-Marian Vaduva :blush:<br>ペトレ マリアン ヴァドゥヴァ です。<br>
   <br> Software Developer<br>ソフトウェアデベロッパー <br>
   
   <h4 align="left">
