@@ -3,6 +3,7 @@
   <br>Hello!<br>こんにちは！<br>
   <br> I'm Petre-Marian Vaduva :blush:<br>ぺトレです。<br>
   <br> Software Developer<br>
+  <br> ソフトウェアデベロッパー<br
   <h4 align="left">
  <abc>
   I am looking forward to absorb knowledge, gain experience, collaborate and build amazing products for the world! 🌍 <br>
