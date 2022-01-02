@@ -25,12 +25,12 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/> </a>
 </p>
+<br>
+<br>
 
-
-<p>
+<a href='https://github.com/petre-marian-vaduva'>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petre-marian-vaduva&title_color=ffffff&layout=compact" />
-</p>
-
+</a>
 
 
 <h2 align="left">👨🏻‍💻 About Me</h2>
