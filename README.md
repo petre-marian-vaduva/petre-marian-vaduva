@@ -23,7 +23,7 @@
 - :man_technologist: All of my projects are available at: https://petre-marian-vaduva.github.io/
 - 📄 Know about my experience: cv-link
 - :dart: Life Hack: Do your hardest task first thing in the morning !!!  
-- I graduated in: <img align="left" alt="graduation" width="30px" src="graduation.png" style="max-width:100%;"><img align="left" alt="Romanian" width="30px" src="romania.png" style="max-width:100%;"><img align="left" alt="English" width="30px" src="uk.png" style="max-width:100%;"><img align="left" alt="Japanese" width="30px" src="japan.png" style="max-width:100%;"><img align="left" alt="Spanish" width="30px" src="spain.png" style="max-width:100%;"><img align="left" alt="Russian" width="30px" src="russia.png" style="max-width:100%;"><br> 
+- <img align="left" alt="graduation" width="30px" src="graduation.png" style="max-width:100%;"><img align="left" alt="Romanian" width="30px" src="romania.png" style="max-width:100%;"><img align="left" alt="English" width="30px" src="uk.png" style="max-width:100%;"><img align="left" alt="Japanese" width="30px" src="japan.png" style="max-width:100%;"><img align="left" alt="Spanish" width="30px" src="spain.png" style="max-width:100%;"><img align="left" alt="Russian" width="30px" src="russia.png" style="max-width:100%;"><br> 
 
 
 
