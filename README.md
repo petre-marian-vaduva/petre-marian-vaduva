@@ -42,9 +42,11 @@
 
 <a href="https://www.linkedin.com/in/petre-marian-vaduva-9b4b46201/" rel="nofollow"><img align="left" alt="Linkedin" width="40px" src="linkedin.png" style="max-width:100%;"></a>
 <br>
+<br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petre-marian-vaduva&&title_color=ffffff" />
-
+<a href="https://github.com/petre-marian-vaduva">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petre-marian-vaduva&title_color=ffffff&layout=compact" />
+</a>
 
 
 <!--
